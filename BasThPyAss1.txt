@@ -1,0 +1,41 @@
+                        PythonBasicAssignment1
+
+1)* -->operator(expression)
+ "hello" -->value
+ -87.8 -->value
+ - -->operator(expression)
+ / -->operator(expression)
+ + -->operator(expression)
+ 6 -->value
+
+2)Difference between string and variable
+String is a value which represents some text, whereas variable 
+refers to some value or holds a value
+String is written in '' or " " or """ """ and variable is not surrounded
+with any quotes
+
+3)Three different data types-->int--holds integer values
+  float-holds floating values
+  bool-holds true/false
+  string-holds text
+
+4)Expression is made up of operators and variables/values.It is basically
+used to check some conditions or evaluating the result
+
+5)Assignment is giving a variable some value whereas expression is a cmbination
+of some variables and operators that can be evaluated to some 
+value.Expressions can also be used for assignment like a=1+2*3
+
+6)bacon=22
+
+7)'spamspamspam'
+  'spamspamspam'
+
+8)A variable in python should start with a _ or letter.Morever 
+  100 is an integer value and int type can't be treated as a variable
+
+9)int(),float(),str()
+
+10)'I have eaten'+99+'burritos' gives error stating tht the string 
+can't be concatenated with int type.It can be fixed by converting int to string
+    'I have eaten'+str(99)+'burritos'
